@@ -1,0 +1,2 @@
+este repositorio es demostrativo.
+sirve para ilustrar el uso de git y git Hub
